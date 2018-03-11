@@ -1,2 +1,2 @@
 # Open-Government-Data-Hackthon
-Hackthon project
+Hackthon project | Android App | FindMyPlaces
